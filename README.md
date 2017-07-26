@@ -11,7 +11,7 @@ The app then further calculates how the player's ratings have evolved over time 
 You can customize the type of game and what the maximum score is.
 For instance, in foosball one typically has a maximum score of 10:
 
-```json
+```hocon
 {
   name: "Foosball",
   score-max: 10,
@@ -25,7 +25,7 @@ For instance, in foosball one typically has a maximum score of 10:
 }
 ```
 
-A full example is provided in `example.conf`.
+A full example is provided in [example.conf](example.conf).
 
 ## Build and Run
 
