@@ -1,4 +1,4 @@
-# Rateferee ![Travis](https://travis-ci.org/phdoerfler/rateferee.svg?branch=master)
+# Rateferee [![Build Status](https://travis-ci.org/phdoerfler/rateferee.svg?branch=master)](https://travis-ci.org/phdoerfler/rateferee)
 
 Challenge your friends to a match or two, enter the results and frolick upon the graphical display of their skill estimation.
 
