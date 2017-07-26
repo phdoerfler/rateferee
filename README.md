@@ -2,6 +2,10 @@
 
 Challenge your friends to a match or two, enter the results and frolick upon the graphical display of their skill estimation.
 
+## Screenshot
+
+![App](https://github.com/phdoerfler/rateferee/blob/gh-pages/app.png)
+
 ## What it does
 
 This app reads the game results from a config file, calculates a rating for the players and displays it.
@@ -27,10 +31,6 @@ For instance, in foosball one typically has a maximum score of 10:
 ```
 
 A full example is provided in [example.conf](example.conf).
-
-## Screenshot
-
-![App](https://github.com/phdoerfler/rateferee/blob/gh-pages/app.png)
 
 ## Build and Run
 
