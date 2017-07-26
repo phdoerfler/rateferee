@@ -18,7 +18,7 @@ libraryDependencies ++= Seq(
 scalacOptions ++= Seq("-Yrangepos", "-deprecation", "-unchecked", "-feature", "-language:_")
 initialCommands in console in Test := "import org.specs2._"
 testOptions in Test += Tests.Argument("console")
-testOptions in Test += Tests.Argument("html")
+//testOptions in Test += Tests.Argument("html")
 
 packAutoSettings
 
