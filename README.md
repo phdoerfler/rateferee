@@ -2,8 +2,6 @@
 
 Challenge your friends to a match or two, enter the results and frolick upon the graphical display of their skill estimation.
 
-## Screenshot
-
 ![App](https://github.com/phdoerfler/rateferee/blob/gh-pages/app.png)
 
 ## What it does
