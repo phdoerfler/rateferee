@@ -21,7 +21,7 @@ package phd
 import scala.annotation.tailrec
 import scala.util.{Success, Try}
 
-object Aux {
+object Auxiliary {
   @tailrec
   def tail[T](lists: List[List[T]]): List[List[T]] = lists match {
     case Nil => throw new UnsupportedOperationException("list empty")

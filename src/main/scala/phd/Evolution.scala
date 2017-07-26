@@ -29,7 +29,7 @@ trait Evolution { this: GamesRating =>
 
   def evolutionOf(games: Vector[Vector[Game]]): Vector[Leaderboard[ID]] =
     (for {
-      someGames <- Aux.inits(games).par
+      someGames <- Auxiliary.inits(games).par
       leaderboard = boardWithRulesAndPeriods(EitherOnePlayerWinsOrItsADraw.rules, someGames map (_ map winOrLose))
     } yield leaderboard).reverse.to[Vector]
 

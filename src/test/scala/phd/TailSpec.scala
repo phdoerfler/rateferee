@@ -1,7 +1,7 @@
 package phd
 
 import org.specs2._
-import Aux._
+import Auxiliary._
 import org.scalacheck._
 
 class TailSpec extends Specification with ScalaCheck { def is = s2"""
