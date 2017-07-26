@@ -27,6 +27,11 @@ For instance, in foosball one typically has a maximum score of 10:
 
 A full example is provided in [example.conf](example.conf).
 
+## Screenshots
+
+![App](https://github.com/phdoerfler/rateferee/blob/gh-pages/app.png)
+![Terminal Output](https://github.com/phdoerfler/rateferee/blob/gh-pages/terminal.png)
+
 ## Build and Run
 
 Build via SBT:
