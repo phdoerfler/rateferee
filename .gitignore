@@ -1,0 +1,8 @@
+/.eclipse
+/project/project/
+/project/target/
+/target
+/.cache
+
+/kicker.conf
+/.idea/
