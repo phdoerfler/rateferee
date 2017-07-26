@@ -7,7 +7,7 @@ Challenge your friends to a match or two, enter the results and frolick upon the
 ## What it does
 
 This app reads the game results from a config file, calculates a rating for the players and displays it.
-The rating system used is [Glicko-2](https://en.wikipedia.org/wiki/Glicko_rating_system).
+The rating system used is [Glicko-2](http://www.glicko.net/glicko.html).
 The app then further calculates how the player's ratings have evolved over time and displays them along with their rating deviation in a chart.
 Additionally the ratings are calculated using 3 different scoring rules and the result is shown in the terminal.
 
