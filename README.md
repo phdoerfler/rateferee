@@ -7,6 +7,7 @@ Challenge your friends to a match or two, enter the results and frolick upon the
 This app reads the game results from a config file, calculates a rating for the players and displays it.
 The rating system used is [glicko2](https://en.wikipedia.org/wiki/Glicko_rating_system).
 The app then further calculates how the player's ratings have evolved over time and displays them along with their rating deviation in a chart.
+Additionally the ratings are calculated using 3 different scoring rules and the result is shown in the terminal.
 
 You can customize the type of game and what the maximum score is.
 For instance, in foosball one typically has a maximum score of 10:
@@ -27,10 +28,9 @@ For instance, in foosball one typically has a maximum score of 10:
 
 A full example is provided in [example.conf](example.conf).
 
-## Screenshots
+## Screenshot
 
 ![App](https://github.com/phdoerfler/rateferee/blob/gh-pages/app.png)
-![Terminal Output](https://github.com/phdoerfler/rateferee/blob/gh-pages/terminal.png)
 
 ## Build and Run
 
