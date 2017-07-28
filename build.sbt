@@ -1,6 +1,6 @@
 name := "rateferee"
 version := "1-SNAPSHOT"
-scalaVersion := "2.12.2"
+scalaVersion := "2.12.3"
 
 resolvers += "jcenter" at "http://jcenter.bintray.com"
 libraryDependencies ++= Seq(
