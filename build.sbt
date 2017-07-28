@@ -4,7 +4,7 @@ scalaVersion := "2.12.2"
 
 resolvers += "jcenter" at "http://jcenter.bintray.com"
 libraryDependencies ++= Seq(
-  "sglicko2" %% "sglicko2" % "1.4",
+  "sglicko2" %% "sglicko2" % "1.5",
   "com.github.wookietreiber" %% "scala-chart" % "latest.integration",
   "com.github.pureconfig" %% "pureconfig" % "0.7.2")
 
